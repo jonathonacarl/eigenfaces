@@ -1,4 +1,3 @@
 # eigenfaces
 
-Download and unzip the data (yalefaces_(un)cropped) used in the jupyter notebook here: https://drive.google.com/drive/folders/1SQ77P5t5RUWCSucmk4jPFbufFMX8VrJG
-
+Download the data (allFaces.mat) used in the jupyter notebook here: https://drive.google.com/file/d/1Why1h9EdFApcP7t2hqFwSUq9T99fBdgn/view?usp=sharing
